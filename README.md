@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, Welcome to my homepage. 👋
+
+<p align="center">
+  <a href="https://github.com/filon7">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=filon7&hide=issues&hide_title=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+    </a>
+</p>
 
 <!--
 **filon7/filon7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
